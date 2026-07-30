@@ -1,0 +1,26 @@
+{
+    "biome.contained.space": "Космос",
+    "biome.contained.cindrath": "Равнины Киндрата",
+    "biome.contained.cindrath_deltas": "Дельта Киндрата",
+    "biome.contained.deep_dark_crystalore": "Тёмные глубины Кристалора",
+    "biome.contained.lush_crystalore": "Пышные пещеры Кристалора",
+    "biome.contained.fractoria_plains": "Равнины Фрактории",
+    "dimension.contained.space": "Космос",
+    "dimension.contained.cindrath": "Киндрат",
+    "dimension.contained.crystalore": "Кристалор",
+    "dimension.contained.fractoria": "Фрактория",
+
+    "block.draconicevolution.chaos_crystal_part": "Кристал хаоса",
+    "block.portaljs.portal_block": "Блок портала",
+
+    "contained.zombie": "Врата зомби",
+    "contained.skeleton": "Врата скелетов",
+    "contained.creeper": "Врата криперов",
+    "contained.spider": "Врата пауков",
+    "contained.enderman": "Врата эндерменов",
+    "contained.wither_skeleton": "Врата визер-скелетов",
+    "contained.blaze": "Врата всполохов"
+
+
+
+}
