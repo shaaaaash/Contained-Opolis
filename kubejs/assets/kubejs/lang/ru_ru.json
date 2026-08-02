@@ -1,0 +1,217 @@
+{
+    "block.contained.awakened_draconium_lock": "Замок из пробуждённого дракония",
+
+    "block.contained.unbreakable_glass": "Неразрушимое стекло",
+    "block.contained.almost_unbreakable_glass": "Почти неразрушимое стекло",
+    "block.contained.reflective_glass": "Отражающее стекло",
+
+    "block.contained.room_block": "Блок комнаты",
+
+    "block.contained.asteroid_sand": "Астероидный песок",
+
+    "block.contained.organic_powder_block": "Блок органической пыли",
+
+    "block.contained.primal_steel_block": "Блок из первобытной стали",
+
+    "block.contained.compressed_quartz_block": "Блок сжатого кварца",
+
+    "block.contained.certus_quartz_block": "Блок истинного кварца",
+
+    "block.contained.cindrath_core_deposit": "Недровая жила Киндрата",
+    "block.contained.crystalline_deposit": "Жила кристалина",
+    "block.contained.ancient_ashes_deposit": "Жила древнего пепла",
+    "block.contained.ancient_ingot_block": "Блок из древнего слитка",
+    "block.contained.crystalline_quartz_block": "Блок кристалинового кварца",
+	 
+    "block.contained.mysterious_oil_block": "Таинственный блок нефти",
+    "block.contained.mysterious_organic_compost": "Таинственный органический компост",
+    "block.contained.mysterious_biomass_block": "Таинственный блок биомассы",
+    "block.contained.mysterious_sky_stone_block": "Таинственный небесный блок",
+    "block.contained.mysterious_red_asteroid": "Таинственный красный астероид",
+    "block.contained.mysterious_green_asteroid": "Таинственный зелёный астероид",
+    "block.contained.mysterious_blue_asteroid": "Таинственный синий астероид",
+    "block.contained.mysterious_yellow_asteroid": "Таинственный жёлтый астероид",
+    "block.contained.mysterious_purple_asteroid": "Таинственный фиолетовый астероид",
+    "block.contained.mysterious_cyan_asteroid": "Таинственный бирюзовый астероид",
+    "block.contained.mysterious_white_asteroid": "Таинственный белый астероид",
+    "block.contained.mysterious_orange_asteroid": "Таинственный оранжевый астероид",
+    "block.contained.mysterious_magenta_asteroid": "Таинственный пурпурный астероид",
+    "block.contained.mysterious_light_blue_asteroid": "Таинственный голубой астероид",
+    "block.contained.mysterious_lime_asteroid": "Таинственный лаймовый астероид",
+    "block.contained.mysterious_pink_asteroid": "Таинственный розовый астероид",
+    "block.contained.mysterious_gray_asteroid": "Таинственный серый астероид",
+    "block.contained.mysterious_light_gray_asteroid": "Таинственный светло-серый астероид",
+    "block.contained.mysterious_black_asteroid": "Таинственный чёрный астероид",
+    "block.contained.mysterious_brown_asteroid": "Таинственный коричневый астероид",
+    "block.contained.mysterious_end_stone": "Таинственный эндерняк",
+
+    "block.contained.cindrath_portal_frame": "Рамка портала в Киндрат",
+    "block.contained.crystalore_portal_frame": "Рамка портала в Кристалор",
+    "block.contained.fractoria_portal_frame": "Рамка портала во Фракторию",
+    "block.contained.overworld_portal_frame": "Рамка портала в верхний мир",
+
+    "item.contained.organic_room_key": "Отмычка к комнате с органикой",
+    "item.contained.additional_asteroids": "Отмычка к дополнительным астероидам",
+    "item.contained.glass_roof_room_key": "Железный ключ к комнате со стеклянным потолком",
+    "item.contained.open_space_key": "Железный ключ в открытый космос",
+    "item.contained.end_portal_key": "Железный ключ к порталу в Энд",
+    "item.contained.gatekeeper_key": "Пробуждённый дракониевый ключ к хранителю хаоса",
+    "item.contained.chaos_key": "Железный ключ к сторожу хаоса",
+    "item.contained.chaos_crystal": "Пробуждённый дракониевый ключ к кристалу хаоса",
+    "item.contained.iron_key": "Железный ключ",
+    "item.contained.awakened_draconium_key": "Пробуждённый дракониевый ключ",
+    "item.contained.blaze_key": "Огненный ключ",
+
+    "item.contained.space_suit_helmet": "Шлем скафандра",
+    "item.contained.space_suit_chestplate": "Туловище скафандра",
+    "item.contained.space_suit_leggings": "Штаны скафандра",
+    "item.contained.space_suit_boots": "Обувь скафандра",
+
+    "item.contained.mysterious_alloy_bucket": "Ведро таинственного сплава",
+    "item.contained.goo_stew_t1_bucket": "Ведро вязкого Primogel",
+    "item.contained.goo_stew_t2_bucket": "Ведро вязкого Blazebloom",
+    "item.contained.goo_stew_t3_bucket": "Ведро вязкого Voidshimmer",
+    "item.contained.goo_stew_t4_bucket": "Ведро вязкого Shadowpulse",
+    "item.contained.blazing_turbofuel_bucket": "Ведро пламенного турботоплива",
+
+    "item.contained.glass_shard": "Осколок стекла",
+    "item.contained.chaos_shard": "Осколок хаоса?",
+
+    "item.contained.overworld_crystal": "Кристал верхнего мира",
+
+    "item.contained.mini_overworld": "Миниатюрный верхний мир",
+
+    "item.contained.mini_resource_cluster_1": "Мини-кластер ресурсов 1",
+    "item.contained.mini_resource_cluster_2": "Мини-кластер ресурсов 2",
+    "item.contained.completed_mini_resource_cluster": "Завершённый мини-кластер ресурсов",
+
+    "item.contained.catalog": "Каталог",
+
+    "item.contained.blazing_cinderstone": "Огненный пепел",
+    "item.contained.exotic_blazing_cinderstone": "Экзотический огненный пепел",
+    "item.contained.crystalline_quartz": "Кристалиновый кварц",
+    "item.contained.exotic_crystalline_quartz": "Экзотический кристалиновый кварц",
+    "item.contained.ancient_ingot": "Древний слиток",
+    "item.contained.exotic_ancient_ingot": "Экзотический древний слиток",
+    "item.contained.exotic_resource_cluster": "Экзотический кластер ресурсов",
+
+    "item.contained.raw_crystalline_stone": "Рудный кристалиновый камень",
+
+    "item.contained.mysterious_gateway_pearl": "Таинственный жемчуг врат",
+
+    "item.contained.dirt_pile": "Кучка земли",
+
+    "item.contained.solar_panel": "Солнечная панель",
+
+    "item.contained.bio_spores": "Биоспоры",
+    "item.contained.bio_sapling": "Биосаженец",
+
+    "item.contained.elemental_essence": "Элементальная эссенция",
+
+    "item.contained.budding_core": "Цветущее ядро",
+
+    "item.contained.wardens_heart": "Сердце хранителя",
+    "item.contained.budding_heart": "Цветущее сердце",
+
+    "item.contained.impressional_gem": "Восхитительный самоцвет",
+
+    "item.contained.cindrath_core_fragment": "Фрагмент ядра Киндрата",
+
+    "item.contained.ancient_ashes": "Древний пепел",
+
+    "item.contained.asteroid_rocks": "Астероидные камешки",
+    "item.contained.roasted_rocks": "Обжаренные камешки",
+
+    "item.contained.stone_bowl": "Каменная миска",
+    "item.contained.goo_bowl_t1": "Суп из Primogel",
+    "item.contained.goo_bowl_t2": "Суп из Blazebloom",
+    "item.contained.goo_bowl_t3": "Суп из Voidshimmer",
+    "item.contained.goo_bowl_t4": "Суп из Shadowpulse",
+    "item.contained.rocky_soup": "Камешковый суп",
+
+    "item.contained.lava_drop": "Капля лавы",
+    "item.contained.water_drop": "Капля воды",
+    "item.contained.dry_drop": "Сухая капля",
+    "item.contained.earth_drop": "Земная капля",
+    "item.contained.oil_drop": "Капля нефти",
+
+    "item.contained.primal_steel_ingot": "Слиток первобытной стали",
+    "item.contained.primal_steel_nugget": "Кусочек первобытной стали",
+    "item.contained.primal_steel_dust": "Первобытная стальная пыль",
+    "item.contained.obsidian_dust": "Обсидиановая пыль",
+    "item.contained.primal_coal_dust": "Первобытная угольная пыль",
+    "item.contained.ferricore_dust": "Ferricore-пыль",
+    "item.contained.lapis_dust": "Лазуритовая пыль",
+    "item.contained.emerald_dust": "Изумрудная пыль",
+    "item.contained.uraninite_dust": "Уранинитовая пыль",
+    "item.contained.amethyst_dust": "Аметистовая пыль",
+    "item.contained.crystalline_dust": "Кристалиновая пыль",
+    "item.contained.small_redstone_dust": "Горсть редстоуновой пыли",
+    "item.contained.small_lapis_dust": "Горсть лазуритовой пыли",
+    "item.contained.small_silver_dust": "Горсть серебряной пыли",
+    "item.contained.small_diamond_dust": "Горсть алмазной пыли",
+    "item.contained.small_emerald_dust": "Горсть изумрудной пыли",
+    "item.contained.small_coal_dust": "Горсть угольной пыли",
+    "item.contained.small_quartz_dust": "Горсть кварцевой пыли",
+    "item.contained.small_certus_quartz_dust": "Горсть истинной кварцевой пыли",
+    "item.contained.small_amethyst_dust": "Горсть аметистовой пыли",
+    "item.contained.small_uraninite_dust": "Горсть уранинитовой пыли",
+    "item.contained.small_crystalline_dust": "Горсть кристалиновой пыли",
+
+    "item.contained.organic_powder": "Органическая пыль",
+    "item.contained.mysterious_organic_powder": "Таинственная органическая пыль",
+    "item.contained.mysterious_powder": "Таинственная пыль",
+    "item.contained.red_asteroid_dust": "Красная астероидная пыль",
+    "item.contained.mysterious_red_asteroid_dust": "Таинственная красная астероидная пыль",
+    "item.contained.green_asteroid_dust": "Зелёная астероидная пыль",
+    "item.contained.mysterious_green_asteroid_dust": "Таинственная зелёная астероидная пыль",
+    "item.contained.blue_asteroid_dust": "Синяя астероидная пыль",
+    "item.contained.mysterious_blue_asteroid_dust": "Таинственная синяя астероидная пыль",
+    "item.contained.yellow_asteroid_dust": "жёлтая астероидная пыль",
+    "item.contained.mysterious_yellow_asteroid_dust": "Таинственная жёлтая астероидная пыль",
+    "item.contained.purple_asteroid_dust": "Фиолетовая астероидная пыль",
+    "item.contained.mysterious_purple_asteroid_dust": "Таинственная фиолетовая астероидная пыль",
+    "item.contained.cyan_asteroid_dust": "Бирюзовая астероидная пыль",
+    "item.contained.mysterious_cyan_asteroid_dust": "Таинственная бирюзовая астероидная пыль",
+    "item.contained.white_asteroid_dust": "Белая астероидная пыль",
+    "item.contained.mysterious_white_asteroid_dust": "Таинственная белая астероидная пыль",
+    "item.contained.orange_asteroid_dust": "Оранжевая астероидная пыль",
+    "item.contained.mysterious_orange_asteroid_dust": "Таинственная оранжевая астероидная пыль",
+    "item.contained.magenta_asteroid_dust": "Пурпурная астероидная пыль",
+    "item.contained.mysterious_magenta_asteroid_dust": "Таинственная пурпурная астероидная пыль",
+    "item.contained.light_blue_asteroid_dust": "Голубая астероидная пыль",
+    "item.contained.mysterious_light_blue_asteroid_dust": "Таинственная голубая астероидная пыль",
+    "item.contained.lime_asteroid_dust": "Лаймовая астероидная пыль",
+    "item.contained.mysterious_lime_asteroid_dust": "Таинственная лаймовая астероидная пыль",
+    "item.contained.pink_asteroid_dust": "Розовая астероидная пыль",
+    "item.contained.mysterious_pink_asteroid_dust": "Таинственная розовая астероидная пыль",
+    "item.contained.gray_asteroid_dust": "Серая астероидная пыль",
+    "item.contained.mysterious_gray_asteroid_dust": "Таинственная серая астероидная пыль",
+    "item.contained.light_gray_asteroid_dust": "Светло-серая астероидная пыль",
+    "item.contained.mysterious_light_gray_asteroid_dust": "Таинственная светло-серая астероидная пыль",
+    "item.contained.black_asteroid_dust": "Чёрная астероидная пыль",
+    "item.contained.mysterious_black_asteroid_dust": "Таинственная чёрная астероидная пыль",
+    "item.contained.brown_asteroid_dust": "Коричневая астероидная пыль",
+    "item.contained.mysterious_brown_asteroid_dust": "Таинственная коричневая астероидная пыль",
+
+    "item.contained.asteroid_rod": "Астероидный стержень",
+    "item.contained.asteroid_pickaxe": "Астероидная кирка",
+    "item.contained.asteroid_axe": "Астероидный топор",
+    "item.contained.asteroid_shovel": "Астероидная лопата",
+    "item.contained.asteroid_sword": "Астероидный меч",
+    "item.contained.asteroid_hoe": "Астероидная мотыга",
+    "item.contained.asteroid_hammer": "Астероидный молот",
+    "item.contained.iron_hammer": "Железный молот",
+    "item.contained.ferricore_hammer": "Молот из Ferricore",
+    "item.contained.sculk_collector": "Собиратель скалка",
+
+    "fluid_type.contained.mysterious_alloy": "Таинственный сплав",
+    "fluid_type.contained.goo_stew_t1": "Вязкий Primogel",
+    "fluid_type.contained.goo_stew_t2": "Вязкий Blazebloom",
+    "fluid_type.contained.goo_stew_t3": "Вязкий Voidshimmer",
+    "fluid_type.contained.goo_stew_t4": "Вязкий Shadowpulse",
+    "fluid_type.contained.blazing_turbofuel": "Пламенное турботопливо"
+
+
+
+}
