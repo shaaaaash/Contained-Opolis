@@ -1,12 +1,11 @@
 //Server Events
 
 ServerEvents.loaded(event => {
-
   if (event.server.persistentData.gameRules) return
   event.server.gameRules.set("doTraderSpawning", false)
   event.server.gameRules.set("doPatrolSpawning", false)
   event.server.gameRules.set("doInsomnia", false)
-  event.server.gameRules.set("doDaylightCycle", false)
+  event.server.gameRules.set("doDaylightCycle", true)
   event.server.gameRules.set("doWeatherCycle", false)
   event.server.persistentData.gameRules = true
 })
@@ -15,7 +14,7 @@ ServerEvents.loaded(event => {
 BlockEvents.placed(event => {
 
   if (event.block.hasTag("contained:banned_in_space") && (event.level.dimension == "contained:space" || event.level.dimension == "contained:cindrath")) {
-    event.player.sendSystemMessage("You cannot place this block in space!");
+    event.player.sendSystemMessage(Text.translate("contained.space_warning"));
     event.cancel();
   }
 
