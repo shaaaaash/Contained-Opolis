@@ -1,0 +1,54 @@
+{
+  "color.bblcore.white": "Белый",
+  "color.bblcore.black": "Чёрный",
+  "color.bblcore.red": "Красный",
+  "color.bblcore.green": "Зелёный",
+  "color.bblcore.blue": "Синий",
+  "color.bblcore.yellow": "Жёлтый",
+  "color.bblcore.purple": "Фиолетовый",
+  "color.bblcore.orange": "Оранжевый",
+  "color.bblcore.cyan": "Бирюзовый",
+  "color.bblcore.gray": "Серый",
+  "color.bblcore.brown": "Коричневый",
+  "color.bblcore.pink": "Розовый",
+  "color.bblcore.lime": "Лаймовый",
+  "color.bblcore.light_blue": "Голубой",
+  "color.bblcore.magenta": "Пурпурный",
+  "color.bblcore.light_gray": "Светло-серый",
+  "color.bblcore.lit": "Светящийся",
+
+  "block.bblcore.colored_crafting_table": "Цветной верстак",
+
+  "item.bblcore.upgrade_base": "Основа для улучшения",
+
+  "chat.bblcore.modpack": "Вы играете в сборку %s версии %s",
+  "chat.bblcore.modpack_not_set": "Задать информацию о сборке можно по пути config/bbl/core/modpack.toml",
+  "chat.bblcore.modpack_website": "Посетить страницу сборки",
+  "chat.bblcore.modpack_update": "Обновление сборки %s уже доступно!",
+  "chat.bblcore.modpack_up_date": "Сборка обновлена до актуальной версии!",
+  "chat.bblcore.discord": "Нажмите, чтобы перейти на Discord-сервер!",
+  "chat.bblcore.discord_not_set": "Задать информацию о Discord можно по пути config/bbl/core/modpack.toml",
+  "chat.bblcore.falling.home": "Вас спасла таинственная сила, забрав домой...",
+  "chat.bblcore.falling.default": "Вас спасла таинственная сила, забрав на стартовую точку возрождения...",
+
+  "tooltips.bblcore.block.unbreakable_resource_block_tool": "Можно добыть при помощи %s",
+  "tooltips.bblcore.block.unbreakable_resource_block_tool_tag": "Можно добыть при помощи %s",
+
+  "tooltips.bblcore.shift": "SHIFT для доп. информации",
+  "tooltips.bblcore.alt": "ALT для доп. информации",
+  "tooltips.bblcore.ctrl": "CTRL для доп. информации",
+  "tooltips.bblcore.coloring_item.banned_block": "Данный блок не может быть окрашен",
+
+  "tooltips.bblcore.coloring_item.shift_down": "Используется для покраски окрашеных блоков в мире и сетке крафта.\nПКМ по блоку - покрасить.\nSHIFT+ПКМ - вкл/выкл массовую покраску.",
+  "tooltips.lighting_item.shift.held": "Используется для подсветки окрашеных блоков в мире и сетке крафта.\nПКМ по блоку - подсветить.\nSHIFT+ПКМ - вкл/выкл массовую подсветку.",
+  "tooltips.bblcore.coloring_item.mass_spraying": ", массовое использование",
+  "jei.unbreakable_resource_block.name": "Блоки ресурсов",
+  "chat.bblcore.modpack_no_version": "Актуальная версия сборки не найдена. Может быть, у Вас билд разработчика?",
+  "chat.bblcore.modpack_instance_error": "В файле конфигурации сборки обнаружена ошибка",
+  "chat.bblcore.modpack_no_instance": "Файл не найден",
+  "chat.bblcore.modpack_up_to_date": "Сборка обновлена до актуальной версии",
+  "chat.bblcore.dev_environment": "Актуальная версия не найдена. Разрабы, не переживайте, всё в порядке, если столкнулись с этим при работе со сборкой",
+  "chat.bblcore.modpack_invalid_instance": "Проблемы с файлом конфигурации"
+
+
+}
