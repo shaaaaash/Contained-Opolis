@@ -20,7 +20,7 @@
   "item.cloche.overworld_upgrade": "Улучшение верхнего мира",
   "item.cloche.nether_upgrade": "Улучшение незера",
   "item.cloche.end_upgrade": "Улучшение Энда",
-  "item.cloche.no_seeds_upgrade": "Улучшение отсутствия семена",
+  "item.cloche.no_seeds_upgrade": "Улучшение отсутствия семян",
   "item.cloche.no_other_drops_upgrade": "Улучшения отсутствия постороннего урожая",
   "item.cloche.main_output_upgrade": "Улучшение урожая",
   "item.cloche.shears_upgrade": "Улучшение ножниц",
@@ -28,8 +28,8 @@
   "item.cloche.fixed_speed_upgrade_2": "Абсолютное улучшение скорости 1",
   "item.cloche.fixed_speed_upgrade_3": "Абсолютное улучшение скорости 1",
   "item.cloche.percentage_speed_upgrade_1": "Относительное улучшение скорости 1",
-  "item.cloche.percentage_speed_upgrade_2": "Абсолютное улучшение скорости 2",
-  "item.cloche.percentage_speed_upgrade_3": "Абсолютное улучшение скорости 3",
+  "item.cloche.percentage_speed_upgrade_2": "Относительное улучшение скорости 2",
+  "item.cloche.percentage_speed_upgrade_3": "Относительное улучшение скорости 3",
 
   "item.cloche.twilight_forest_upgrade": "Улучшение сумеречного леса",
 
