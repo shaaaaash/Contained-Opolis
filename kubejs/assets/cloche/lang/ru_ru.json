@@ -13,7 +13,7 @@
   "block.cloche.gui.on_off": "Вкл/Выкл",
   "block.cloche.jei.chance": "Шанс: ",
   "block.cloche.jei.seeds_result": "Можно убрать при помощи улучшения отсутствия семян",
-  "block.cloche.jei.main_output": "Действует улучшение урожая",
+  "block.cloche.jei.main_output": "Попадает под действие улучшения урожая",
   "block.cloche.jei.shears_result": "Необходимо улучшение ножниц",
   "block.cloche.jei.duration": "Продолжительность: %s",
 
