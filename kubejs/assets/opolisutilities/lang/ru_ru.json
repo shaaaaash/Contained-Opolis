@@ -1,0 +1,149 @@
+{
+  "item.opolisutilities.copper_nugget": "Кусочек меди",
+  "item.opolisutilities.wooden_shears": "Деревянные ножницы",
+  "item.opolisutilities.home_stone": "Камень дома",
+  "item.opolisutilities.advanced_home_stone": "Продвинутый камень дома",
+  "item.opolisutilities.super_home_stone": "Супер-камень дома",
+  "item.opolisutilities.death_stone": "Камень смерти",
+  "item.opolisutilities.floating_block_item": "Парящий блок",
+  "item.opolisutilities.jerky": "Джерки",
+  "item.opolisutilities.bundled_flesh": "Связка плоти",
+  "item.opolisutilities.ender_pearl_fragment": "Фрагмент эндер-жемчуга",
+  "item.opolisutilities.b_bucks": "Б-Баксы",
+  "item.opolisutilities.leafy_string": "Лиственная нить",
+  "item.opolisutilities.jei_null_item": "JEI Null Item",
+  "item.opolisutilities.upgrade_base": "Основа для улучшения",
+
+  "item.opolisutilities.basic_loot_box": "Стандартный лутбокс",
+  "item.opolisutilities.advanced_loot_box": "Продвинутый лутбокс",
+  "item.opolisutilities.elite_loot_box": "Элитный лутбокс",
+  "item.opolisutilities.wallet": "Кошелёк для Б-Баксов",
+  "item.opolisutilities.log_sheet": "Кора",
+  "item.opolisutilities.soaked_paper": "Вымоченная бумага",
+
+  "item.opolisutilities.stone_core": "Каменное ядро",
+  "item.opolisutilities.mini_coal": "Мини-уголь",
+  "item.opolisutilities.mini_charcoal": "Древесный мини-уголь",
+  "item.opolisutilities.catalogue_book": "Книга-каталог",
+  "item.opolisutilities.crook": "Крюк",
+  "item.opolisutilities.opolis_wrench": "Гаечный ключ для Opolis",
+  "item.opolisutilities.sapling_grower": "Возводитель саженцев",
+  "item.opolisutilities.animal_net": "Сетка для животных",
+  "item.opolisutilities.portable_gui": "Переносной интерфейс (BETA)",
+
+  "block.opolisutilities.floating_block_block": "Парящий блок",
+  "block.opolisutilities.drying_table": "Сушильный стол",
+  "block.opolisutilities.soaking_table": "Мочильный стол",
+  "block.opolisutilities.fluid_generator": "Генератор жидкостей",
+  "block.opolisutilities.ender_ore": "Эндер-руда",
+  "block.opolisutilities.deepslate_ender_ore": "Глубинносланцевая эндер-руда",
+  "block.opolisutilities.smart_crafting_table": "Умный верстак (BETA)",
+
+  "block.opolisutilities.redstone_clock": "Редстоуновые часы",
+  "gui.opolisutilities.shift": "SHIFT +/- 50",
+
+  "block.opolisutilities.ender_scrambler": "Исказитель Энда",
+  "block.opolisutilities.item_repairer": "Восстановитель предметов",
+  "block.opolisutilities.block_placer": "Размещатель блоков",
+  "block.opolisutilities.summoning_block": "Блок призыва",
+
+  "block.opolisutilities.block_breaker": "Разрушитель блоков",
+  "block.gui.whitelist_slot": "Белый список",
+  "block.gui.blacklist_slot": "Чёрный список",
+  "block.gui.tool_slot": "Инструмент",
+
+  "block.opolisutilities.resource_generator": "Генератор ресурсов",
+
+  "block.gui.speed_upgrade": "Блок ограничения скорости",
+  "block.gui.resource": "Какие ресурсы генерировать",
+  "block.gui.output": "Сгенерированные ресурсы",
+  "block.gui.block_in_world": "Ресурс в мире!",
+  "block.gui.speed_upgrade_in_world": "Улучшение скорости в мире!",
+
+  "block.in_world.no_speed_upgrade": "Улучшений скорости не обнаружено!",
+  "block.in_world.tickrate": "Текущая частота размещения: %s",
+  "block.in_world.obtaining": "Идёт получение %s",
+
+  "block.opolisutilities.catalogue": "Каталог",
+  "block.opolisutilities.clicker": "Кликер",
+  "block.opolisutilities.crafter": "Продвинутый сборщик",
+
+  "block.opolisutilities.cloche": "Клош (BETA)",
+
+  "block.gui.catalyst_slot": "Катализатор",
+  "block.gui.seed_slot": "Семена или растение",
+  "block.gui.soil_slot": "Почва",
+
+  "enchantment.opolisutilities.wardens_smite": "Небесная кара хранителя",
+
+  "tooltips.home_stone.hover.shift": "SHIFT для доп. информации",
+  "tooltips.home_stone.hover.alt": "ALT для доп. информации",
+  "tooltips.home_stone.no_location_set": "Локация не задана",
+  "tooltips.home_stone.shift.held": "Для установки локации нажмите SHIFT+ПКМ, держа предмет в левой руке.\nДля телепортации по заданной локации нажмите ПКМ, держа предмет в правой руке!\nРаботает только в верхнем мире.",
+  "tooltips.advanced_home_stone.shift.held": "Для установки локации нажмите SHIFT+ПКМ, держа предмет в левой руке.\nДля телепортации по заданной локации нажмите ПКМ, держа предмет в правой руке!\nРаботает в верхнем мире, незере и Энде.",
+  "tooltips.super_home_stone.shift.held": "Для установки локации нажмите SHIFT+ПКМ, держа предмет в левой руке.\nДля телепортации по заданной локации нажмите ПКМ, держа предмет в правой руке!\nРаботает в любом измерении.",
+  "tooltip.advanced_home_stone.invalid_dimension": "Невозможно использовать в текущем измерении",
+  "tooltips.home_stone.going_saved_location": "Отправляю в заданную локацию!",
+  "tooltips.home_stone.no_location": "Локация не задана",
+  "tooltips.home_stone.location_set": "Локация задана!",
+  "tooltips.death_stone.how": "И как же так вышло!..",
+  "tooltips.death_stone.going_saved_location": "Отправляю к месту последней смерти",
+  "tooltips.death_stone.shift.held": "Нажмите ПКМ, чтобы вернуться к месту последней смерти. Работает в любом измерении.",
+  "tooltips.ender_scrambler.shift.held": "Нужен для предотвращения телепортации эндерменов в определённом радиусе",
+  "tooltips.fan.shift.held": "Нужен для перемещения мобов",
+  "tooltips.wallet.hover.shift": "SHIFT для доп. информации",
+  "tooltips.wallet.shift.held": "Держа кошелёк в левой руке, нажмите SHIFT+ПКМ с %s в правой руке, чтобы положить её в кошелёк. Нажмите ПКМ, чтобы достать %s оттуда.",
+  "tooltips.wrench_item.shift.held": "Используется для просмотра подробной информации о предмете",
+  "tooltips.wallet.no_b_bucks": "Ваш кошелёк пуст!",
+  "tooltips.floating_block.place_in_air": "Можно разместить в воздухе или в воде",
+
+  "tooltips.animal_net.shift.held": "Содержит: ",
+  "tooltips.animal_net.hover.shift": "SHIFT для доп. информации",
+  "tooltips.animal_net.no_mob": "Моб в сети отсутствует",
+  "tooltips.animal_net.not_compatible_mob": "Этот моб не может быть пойман",
+  "tooltips.animal_net.mob_caught": "Моб пойман!",
+  "tooltips.animal_net.mob_types": "Разрешённые для поимки мобы: ",
+  "tooltips.animal_net.hostile_mobs": "враждебные",
+  "tooltips.animal_net.water_mobs": "водные",
+  "tooltips.animal_net.animal_mobs": "животные",
+  "tooltips.animal_net.villager_mobs": "крестьянины",
+  "tooltips.catalogue_book.no_catalogue": "Каталогов не обнаружено",
+  "tooltips.catalogue_book.hover.shift": "SHIFT для доп. информации",
+  "tooltips.catalogue_book.shift.held": "Местоположение каталога: ",
+  "tooltips.catalogue_book.hover.alt": "ALT для доп. информации",
+
+  "tooltips.portable_gui.no_block": "Блоков Opolis здесь не обнаружено!",
+  "tooltips.portable_gui.shift.held": "Локация: ",
+  "tooltips.portable_gui.hover.shift": "SHIFT для доп. информации",
+  "tooltips.portable_gui.not_loaded": "Блок находится в незагруженном чанке",
+  "tooltips.portable_gui.in_spawn_chunk": "Функционирование невозможно. Блок находится в спавн-чанке.",
+  "tooltips.portable_gui.no_gui": "У этого блока отсутствует интерфейс или он несовместим с переносным интерфейсом",
+  "tooltips.portable_gui.banned_block": "На этом блоке запрещено использование переносного интерфейса",
+  "tooltips.portable_gui.no_location": "Позиция локации не задана",
+  "tooltips.blocks.with_fluid.shift": "SHIFT для доп. информации",
+
+  "sounds.opolisutilities.doorbell": "Звенит звонок",
+
+  "screen.opolisutilities.warning": "Слейте жидкость!",
+
+  "hover_effects.ender_scrambler.range": "Радиус: ",
+
+  "jei.opolisutilities.resource_generator": "§lГенератор ресурсов§r \n\nБлагодаря одному лишь этому генератору можно создавать различные блоки!\n\nВ верхний слот необходимо поместить целевой блок, в слот справа - улучшения скорости, в нижнем слоте будут появляться произведённые блоки.\n\nДоступные для производства блоки и улучшения скорости можно посмотреть в JEI.",
+  "jei.opolisutilities.fluid_generator": "§lГенератор жидкостей§r \n\nБлагодаря одному лишь этому генератору можно создавать различные жидкости!\n\nВ верхний слот необходимо поместить ведро, в слот справа - улучшения скорости, в нижний слот - ёмкость для целевой жидкости.\n\nДоступные для производства жидкости и улучшения скорости можно посмотреть в JEI.\n\nЖидкость можно слить, нажав ПКМ по генератору.\n\nПосле разрушения жидкости останутся.",
+  "jei.opolisutilities.floating_block": "§lПарящий блок§r \n\nПарящий блок необходим для размещения в воздухе или воде в качестве опоры для других.",
+  "jei.opolisutilities.drying_table": "§lСушильный стол§r \n\nСушильный стол предназначен для сушки предметов.\n\nВ верхний слот необходимо поместить предмет, который необходимо высушить, в нижнем слоте появится предмет после сушки.\n\nЕсли в блок вылить воду, получится мочильный стол.\n\nМочильный стол предназначен для вымачивания предметов.",
+  "jei.opolisutilities.item_repairer": "§lВосстановитель предметов§r \n\nВосстановитель предметов предназначен для починки предметов.\n\nВ верхний слот необходимо поместить предмет, нуждающийся в починке, в слот справа - улучшения скорости, в нижнем слоте появится починенный предмет.\n\n",
+  "jei.opolisutilities.block_placer": "§lРазмещатель блоков§r \n\nБлоки или предметы, запрещённые в тегах размещателя, не смогут быть поставлены.\n\nЧастоту размещения можно регулировать.",
+  "jei.opolisutilities.block_breaker": "§lРазрушитель блоков§r \n\nЛевый слот предназначен для инструмента, средний - для блока, который нужно разрушить, правый - для блока, который не нужно разрушать.\n\nСкорость разрушения зависит от помещённого инструмента и разрушаемого блока.\n\nМожно включать и выключать.",
+
+  "jei.opolisutilities.portable_gui": "§lПереносной интерфейс§r \n\nПереносной интерфейс предназначен для удалённого доступа к интерфейсам блоков. (но пока что ещё нифига не работает)\n\nДержа в руке, нажмите SHIFT+ALT или SHIFT+CTRL для переключения по максимум 5 интерфейсам. Нажмите SHIFT+ПКМ, чтобы задать интерфейс. Нажмите ПКМ, чтобы его открыть.\n\nИнтерфейс блока не будет задан, если он запрещён переносным интерфейсом.",
+
+
+
+
+
+
+  "enchantment.opolisutilities.warden_smite": "Небесная кара хранителя",
+
+  "itemGroup.opolisutilities": "Opolis Utilities"
+}
