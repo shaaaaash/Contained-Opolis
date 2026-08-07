@@ -47,7 +47,7 @@
 	quest.01838B662393F676.quest_desc: ["Crafted &lSmall Dust&r"]
 	quest.01C00CCE9E28F2CC.quest_desc: ["Crafted &lSmall Dust&r"]
 	quest.023992C0B67D0FDD.quest_desc: ["Pulverized &lAsteroid&r"]
-	quest.024B17958331B403.quest_desc: ["Allows quick crafting of items from your inventory or from chest in 5 block range"]
+	quest.024B17958331B403.quest_desc: ["Позвляет создавать предметы автоматически из вашего инвентаря и хранилищ в радиусе 5 блоков."]
 	quest.026186F2325DCF96.quest_desc: ["Made with &lChaotic Fustion Crafting&r. The &2&lBudding Time Crystal Block&r&r need to be infused with the energy of different dimensions. First back to &l&6Cindrath&r"]
 	quest.027E42381B5C0724.quest_desc: ["Oritech's end-game crafting machine"]
 	quest.02E8D933E1A69BB8.quest_desc: ["Placing a &lSoulstone&r next to a &lShadowpulse Goo&r will transform it into&l Soulium Ore&r"]
@@ -77,7 +77,7 @@
 	quest.054CF7C3BF8BE7FF.quest_desc: ["&0&lDragon Eggs&r"]
 	quest.05E9F6B258B48317.quest_desc: ["An output from Refining &lCrude Oil&r"]
 	quest.05E9F6B258B48317.title: "Лёгкая нафта"
-	quest.06001485F671F236.quest_desc: ["A simple crafting table"]
+	quest.06001485F671F236.quest_desc: ["Обыкновенный верстак."]
 	quest.063B103CDA455EF3.quest_desc: ["Breaking &lCracked Stone&r"]
 	quest.066273AC424990C5.quest_desc: ["TODO: How to get (non-reinforced) deepslate"]
 	quest.06B17BA4C2705614.quest_desc: ["Allows your &lMultiblock Controller&r to create &lAlloys&r"]
@@ -198,9 +198,9 @@
 	quest.140773AA57BD7B51.quest_desc: ["Dried &lSoaked Paper&r"]
 	quest.143D84582A09C699.quest_desc: ["Break &lCyan Asteroids&r using the &lEnderic Laser&r to get &lFlawless Budding Certus&r"]
 	quest.143D84582A09C699.title: "Безупречный цветущий блок истинного кварца"
-	quest.14692FCBFC5DBDF6.quest_desc: ["This &lLight Gray Asteroid&r can be destroyed with your hand "]
+	quest.14692FCBFC5DBDF6.quest_desc: ["Разрушьте &lсветло-серый астероид&r при помощи руки."]
 	quest.14B2E2241D418B75.quest_desc: ["Allows the creation of the next tier of essence"]
-	quest.14C6EBFC5970B836.quest_desc: ["Storing your &lItems&r"]
+	quest.14C6EBFC5970B836.quest_desc: ["Бережно хранит ваши &lпредметы&r."]
 	quest.14E1635D18635E99.quest_desc: ["Crafted &lSmall Dust&r"]
 	quest.15332DD8491B35F2.quest_desc: ["Crafted with &lGlass&r"]
 	quest.155DEB1001B13C18.quest_desc: ["Grown inside the &lCloche&r"]
@@ -252,7 +252,7 @@
 	quest.1D2C88D2D8A3C11D.quest_desc: ["High Energy"]
 	quest.1D5C9C8419A67ABD.quest_desc: ["Used to make other items. Place the Anvil on top of a &l&4Magma Block&r, then right click the anvil with the first item in the recipe. Add the other 2 items and right click with a &l&5Stygian Hammer&r to craft"]
 	quest.1D965E50A7AE675C.quest_desc: ["Smelted &lAsteroid Dust&r"]
-	quest.1DAE848C36420E9C.quest_desc: ["This pack uses &lUltimine&r. Holding the selected key (grave) will allow you to break multiple blocks at once"]
+	quest.1DAE848C36420E9C.quest_desc: ["В данной сборке есть мод &lUltimine&r, который позволяет разрушать несколько блоков за раз. Для этого удерживайте выбранную клавишу."]
 	quest.1DAF87419089BD27.quest_desc: ["Crafted &lSmall Dust&r"]
 	quest.1DC3990C5B6FA313.quest_desc: [
 		"Right click to travel in the direction your looking in. Can be filled by throwing into &lLava&r"
@@ -274,7 +274,7 @@
 	quest.1E8A69EA224025CA.quest_desc: ["Looks a bit like paper"]
 	quest.1EF9F1472A10D37C.quest_desc: ["Used to create &lBone Meal&r from organic materials "]
 	quest.1FAE434D07271330.quest_desc: ["Crafted &lSmall Dust&r"]
-	quest.20729F28DD1C832C.quest_desc: ["Punch tree get wood I know that!"]
+	quest.20729F28DD1C832C.quest_desc: ["Дерево бить, брёвна получать, радостно!"]
 	quest.214F763DA6D628A3.quest_desc: [
 		"The &l&6Speed Sensor&r can be used to detect the speed of the &l&dParticle Accelerator&r."
 		""
@@ -293,13 +293,13 @@
 	quest.220CE7A832605B75.quest_desc: ["There are many types of &lGoo Blocks&r. These infect blocks to change them into something else"]
 	quest.2218DA080411AEED.quest_desc: ["Processed &lFragments&r"]
 	quest.222309F8769B86B6.quest_desc: ["Crafted &lShards&r"]
-	quest.226290A096599FBC.quest_desc: ["As always a lot of things have been tweaked in this pack. Some usual methods to obtain things may be different to what you are used to. The &lQuest Book&r aims to direct you through the modpack "]
+	quest.226290A096599FBC.quest_desc: ["Как это обычно бывает, в данной сборке многое было изменено. Некоторые привычные способы получения чего бы то ни было могут здесь не работать. &lКвесты&r позволят вам легче ориентироваться в сборке."]
 	quest.226759B16E4C8881.quest_desc: ["Made in the &lFoundry&r"]
 	quest.227B918499D8A5BE.quest_desc: ["Smelted &lAsteroid Dust&r"]
 	quest.2288088F29EF501C.quest_desc: ["The next tier of &lGoo&r"]
 	quest.228864840B078569.quest_desc: ["A powerful ingot"]
 	quest.22DD46B617E6CB66.quest_desc: ["Made inside the &lSolar Cooker&r"]
-	quest.23522D64F244EAA6.quest_desc: ["A simple bucket tool"]
+	quest.23522D64F244EAA6.quest_desc: ["Ведро как ведро."]
 	quest.235AF510ED4BD2F4.quest_desc: ["Uses items for you"]
 	quest.23AF0DD636F17362.quest_desc: ["Can be used to make various upgrades for the &lCloche&r"]
 	quest.23FC885A41D4E2D2.quest_desc: ["Used with the &5&lStygian Anvil&r&r"]
@@ -334,7 +334,7 @@
 	quest.27D44033A4DEAFD6.quest_desc: ["Broken &lGlowstone Block&r"]
 	quest.27F89ACF28EC38DE.quest_desc: ["Made from &lLeaves&r"]
 	quest.28287C8C4CEBF1EC.quest_desc: ["Placing a &lMysterious Organic Compost&r next to a &lBlazebloom Goo&r will transform it into&l Mysterious Biomass&r"]
-	quest.287F2448F5170032.quest_desc: ["A simple &lRod&r"]
+	quest.287F2448F5170032.quest_desc: ["Обыкновенный &lстержень&r."]
 	quest.28CB0CA469EF8EE9.quest_desc: ["Made inside the &lFragment Forge&r"]
 	quest.290958B7807ACCF8.quest_desc: ["More stuff in the Roof"]
 	quest.295F12CA83335F3C.quest_desc: ["Placing a &lBudding Amethyst&r next to a &lShadowpulse Goo&r will transform it into an&l Budding Time Crystal Block&r"]
@@ -349,9 +349,9 @@
 	quest.29BAE86FF7FA87B4.quest_desc: ["Ingredient for &ladvanced machine cores&r and other oritech parts."]
 	quest.29CC9882E086431B.quest_desc: ["Placing a &lBiomass Block&r next to a &lVoidShimmer Goo&r will transform it into a &lSculk Block&r"]
 	quest.29D29B50789A9ACB.quest_desc: [
-		"Contained can be played with &lShaders&r. "
+		"В Contained можн играть с &lшейдерами&r. "
 		""
-		"Open your&l Video Settings&r and click &lShader Packs&r on the top right!"
+		"Включить их можно по пути ESC -> \"Настройки...\" -> \"Настройки графики...\" -> \"Наборы шейдеров\"."
 	]
 	quest.2A01F01E0D82520F.quest_desc: ["Increases the amount of kills per operation, Has various levels"]
 	quest.2A01F01E0D82520F.title: "Mass Upgrade"
@@ -410,7 +410,7 @@
 	]
 	quest.2E750A3B80173D52.title: "Недровая жила Киндрата"
 	quest.2E8FA529D92677C6.quest_desc: ["Made inside the &lSolar Cooker&r"]
-	quest.2EA00E0AB4C8BCAE.quest_desc: ["&lContained&r has fully custom dimensions. But you need to get out the &lCube&r first"]
+	quest.2EA00E0AB4C8BCAE.quest_desc: ["В &lContained&r есть полностью кастомизируемые измерения. Но для этого сначала предстоит выбраться из &lкуба&r."]
 	quest.2EA872082D1E9019.quest_desc: ["Made inside the &lFragment Forge&r"]
 	quest.2EAAC40E8A7DA32C.quest_desc: ["Drops from &lRaw Celestigem Ore&r"]
 	quest.2ECAFA1A88F58C86.quest_desc: ["Crafted &lSmall Dust&r"]
@@ -441,13 +441,13 @@
 	quest.31C467AB580424C8.quest_desc: ["Basic &lShears&r"]
 	quest.31FA4E366CA93810.quest_desc: ["Drops from &lRaw Ferricore Ore&r"]
 	quest.321C15362F974711.quest_desc: ["Right click to shoot yourself foward, Drop into &lLava&r to fill"]
-	quest.32402E328D4F4DEE.quest_desc: ["From logs"]
+	quest.32402E328D4F4DEE.quest_desc: ["Из чего там обычно доски делаются?"]
 	quest.3253E6E789A61CDB.quest_desc: ["A basic fluid pipe"]
 	quest.326355B252F7D538.quest_desc: ["Can be grown in the &lCloche&r"]
 	quest.32B156CB33657EFF.quest_desc: ["Crushed up &lSky Stone&r"]
 	quest.32F7EC921C4814AF.quest_desc: ["Made inside the &lPulverizer&r"]
 	quest.333A932D00C68A15.quest_desc: ["Smelted &lAsteroid Dust&r"]
-	quest.3349838869E59C47.quest_desc: ["You are contained inside a sealed room in Space, what did you do to get here!"]
+	quest.3349838869E59C47.quest_desc: ["Вас заперли внутри комнаты посреди открытого космоса. Как вас так угораздило-то?!"]
 	quest.3353833898F7CDF8.quest_desc: ["An alloy of &lGold&r and &lNetherite Scrap&r"]
 	quest.335A97E7532D66F1.quest_desc: ["Used to create advanced parts "]
 	quest.33EE1A2D7535EF1D.quest_desc: ["Not &lCurse Forge&r or &lGD Launcher&r"]
@@ -455,9 +455,9 @@
 	quest.3441A6081DF107B6.quest_desc: ["Wow, Made inside the &lInfuser&r"]
 	quest.3466437A3CDA8ABD.quest_desc: ["Smelted &lAsteroid Dust&r"]
 	quest.348E4E4154918492.quest_desc: [
-		"A tool capable of turning &lBlocks&r to &lDusts&r"
+		"Молот превращает &lблоки&r в &lпыль&r."
 		""
-		"You can right click with the &lHammers&r to pick up &lMysterious Blocks&r"
+		"Им также можно подбирать &lтаинственные блоки&r по нажатию ПКМ."
 	]
 	quest.34A433DEE191F0F9.quest_desc: ["Obtained in &l&#6075ffCrystalore&r"]
 	quest.34E461CD0CF7B3AE.quest_desc: ["Made inside the &lAssembler&r from &lBlue&r and &lRed Asteroids&r"]
@@ -479,7 +479,7 @@
 	quest.37A6FD1D9D98D482.quest_desc: ["&lFluxite&r and &lNickel&r alloy"]
 	quest.37AAE7E4DDAAD604.quest_desc: ["A block of &lIngots&r"]
 	quest.37ACA86899EB5BC1.quest_desc: ["Every Dragon kill drops an Egg"]
-	quest.37D2CAB540A56373.quest_desc: ["Run out of &lAsteroids&r this will create a new room full of &lAsteroids&r"]
+	quest.37D2CAB540A56373.quest_desc: ["Если закончились &lастероиды&r, это позволит вам создать целую комнату с &lастероидами&r."]
 	quest.37E7AAF6BA1BAB7E.quest_desc: ["A block of &lOrganic Powder&r"]
 	quest.37F27CE4E0206DDE.quest_desc: ["Placing a &lSoul Sand&r next to a &lShadowpulse Goo&r will transform it into&l Soulstone&r"]
 	quest.37F477E40240DB95.quest_desc: ["A block of &lBone&r"]
@@ -568,7 +568,7 @@
 	quest.44A90E491CE3ADA7.quest_desc: ["Made from &lDirt Piles&r"]
 	quest.44C50D89ED705CDD.quest_desc: ["Pulverized &lAsteroid&r"]
 	quest.44F2FA0B4607BCFA.quest_desc: ["Can be made in various way using &lPolymer Resin&r"]
-	quest.44F78276737DA0DD.quest_desc: ["Thanks for downloading and &lWelcome To Contained!&r A 1.21.1 &lSpace Based Modpack&r"]
+	quest.44F78276737DA0DD.quest_desc: ["Спасибо за загрузку и &lдобро пожаловать в Contained!&r В &lсборку про исследование космоса&r на версии 1.21.1."]
 	quest.45093E19F320A16B.quest_desc: ["Made with &lWater Drops&r and &lOrganic Powder&r"]
 	quest.452CBF6B27186D32.quest_desc: ["The &lFoundry&r can be used to create various different alloys"]
 	quest.453E2B8B99D6E95C.quest_desc: ["A single block to create your essences"]
@@ -578,7 +578,7 @@
 	quest.45779FE831C1FE2B.title: "Efficiency Upgrade"
 	quest.4584219F98BFD8DF.quest_desc: ["Obtained through &lStraining&r"]
 	quest.45BBB556A1823042.quest_desc: ["Requires &lOak Logs&r"]
-	quest.45E772F1E8AF36BF.quest_desc: ["Can be used to eat foods"]
+	quest.45E772F1E8AF36BF.quest_desc: ["Из неё можно есть."]
 	quest.45E84E44C9E5FBDF.quest_desc: ["Droping &lSandstone&r into &lPolymorphic Fluid&r will create &lEnd Stone&r"]
 	quest.45E8C72262CB6C2B.quest_desc: ["From seeds"]
 	quest.45EA96A94E1022DE.quest_desc: ["Drops from the &lMysterious Biomass Block&r. Most can be grown in a &lCloche&r"]
@@ -595,7 +595,7 @@
 		""
 		"It can remove Room Key Blocks too but if you remove all of them you can softlock yourself since these Room Key Blocks are still needed later in the pack"
 	]
-	quest.4708A895CDDC2763.quest_desc: ["Crafted &lRocks&r"]
+	quest.4708A895CDDC2763.quest_desc: ["Переработанные &lкамешки&r."]
 	quest.4734CEED8DB369B1.quest_desc: ["&lEnd Steel&r and &lPopped Chorus&r can be used to make &lEnderic Compound&r"]
 	quest.47E064DA476BDD8C.quest_desc: ["The &lSculk Collector&r can be used to obtain &lSculk&r and other &lSculk&r blocks in &l&#6075ffCrystalore&r. Usual vanilla methods of obtaining &lSculk&r do not work"]
 	quest.4800A8020B754356.quest_desc: ["A strange block that constantly regenerates."]
@@ -619,9 +619,9 @@
 	quest.4BF815F3672F4AF1.quest_desc: ["The next location is &l&#6075ffCrystalore&r when it &lturns &6Orange&r its ready to move to &l&7Fractoria&r"]
 	quest.4BF815F3672F4AF1.title: "Продолжение наполнения"
 	quest.4C2C7C9BACD11BBD.quest_desc: [
-		"You can use the &lDark Mode&r button at the bottom left of your inventory to enable various levels of &lDark Mode&r"
+		"В левом нижнем углу инвентаря можно включить тёмный режим для всех интерфейсов, нажав кнопку \"Тёмный режим\" (Dark Mode). Повторным нажатием можно изменить яркость интерфейса."
 		""
-		"By default, you can press the &lZ&r key to zoom in."
+		"По умолчанию приближение установлено на клавишу &lZ&r."
 	]
 	quest.4C3111EC5015F9C4.quest_desc: ["Exports items/fluids/energy out of the network into connected inventories"]
 	quest.4C3111EC5015F9C4.title: "Экспортеры из IntegratedDynamics"
@@ -640,7 +640,7 @@
 	quest.4D8A882E16CFFC8F.quest_desc: ["A &lLarge Asteroid&r found in&l Space&r"]
 	quest.4D8A882E16CFFC8F.title: "Жёлтый астероид"
 	quest.4D8B510D87C5C507.quest_desc: ["Obtained from a &lMysterious Block&r"]
-	quest.4DA4D2A00FD1F26D.quest_desc: ["Like the walls but breakable"]
+	quest.4DA4D2A00FD1F26D.quest_desc: ["Прям как стены, только более хрупкие."]
 	quest.4DA4D2A00FD1F26D.quest_subtitle: "Украшение"
 	quest.4DA5532BADF76ABE.quest_desc: ["Made on the &5&lStygian Anvil&r"]
 	quest.4DBD0494A9A9E11B.quest_desc: ["Processed &lCrystalline&r"]
@@ -688,7 +688,7 @@
 	quest.53D013B95FE46954.quest_desc: ["A powerful device "]
 	quest.54228701CF1D533A.quest_desc: ["There are various upgrades that can be used to improve the multiblock"]
 	quest.5425AB8DBBFFF7EE.quest_desc: ["Turns moltens into solids"]
-	quest.544923259D3E812A.quest_desc: ["I have a &l\"Key\"&r but no lock, maybe its hidden in the wall somewhere?"]
+	quest.544923259D3E812A.quest_desc: ["Вот и &l\"ключ\"&r, а замка нигде нет... Может, он где-то в стене?"]
 	quest.547288FC2B1C6DB4.quest_desc: ["Can be used to extract &lWater&r from &lWater Drops &r"]
 	quest.547BD98F63C15989.quest_desc: [""]
 	quest.54A7E67C177EA4A0.quest_desc: ["The Portal can be lit with &9&lImperium Crystal&r"]
@@ -737,7 +737,7 @@
 	quest.59561E56B086BE36.quest_desc: ["This can be used to obtain resource from the &lMysterious Blocks&r "]
 	quest.59855769D8BAD2A0.quest_desc: ["Used to collect fluid from in the world"]
 	quest.59A17A718D598A5B.quest_desc: ["TODO"]
-	quest.59AD9E4C3D60BB25.quest_desc: ["Useful for chopping"]
+	quest.59AD9E4C3D60BB25.quest_desc: ["Пригодится для рубки деревьев."]
 	quest.59B0451A79CC4F2C.quest_desc: ["Used to find items inside blocks"]
 	quest.59F8A7257619094E.quest_desc: ["Breaking this drops some useful items. This block doesn't break normally!"]
 	quest.5A17E9E5CD068B8B.quest_desc: ["&lAsteroid Dust&r and &lResources&r"]
@@ -824,9 +824,9 @@
 	quest.65D5B1D287B49B34.quest_desc: ["Crafted from &lEnder Pearl Fragments&r"]
 	quest.65E7518A01D4E0EC.quest_desc: ["This is used to make &lVitality Fuel&r needed to power the &lWoot Multliblock&r. The guide book shows the amount of fluid needed per valid mob"]
 	quest.65EBEFA09D9F0231.quest_desc: [
-		"Join the &lBBL Discord&r for support, report bugs and suggest features or additions."
+		"Вступайте в &lканал BBL в Discord&r, сообщайте об ошибках, просите помощи и предлагайте новое!"
 		""
-		"Use /discord in game to get the link"
+		"Для получения ссылки используйте команду /discord."
 	]
 	quest.662D0FE7DAC0062E.quest_desc: ["Crafted &lShards&r"]
 	quest.6639AFC202264868.quest_desc: ["Pure Chaos, these look like they could be useful"]
@@ -846,9 +846,9 @@
 	quest.672DEF20B6025BE0.quest_desc: ["A strange block that never breaks. Needs &lIron Tools&r or better to mine"]
 	quest.67B03CF63C0C6B55.quest_desc: ["Keys i remember these "]
 	quest.67B2C0658B35CD84.quest_desc: [
-		"Useful for mining tougher blocks."
+		"Пригодится при добыче более твёрдых блоков."
 		""
-		"You can also use it to get full blocks from light gray asteroids."
+		"Если сломать светло-серый астероид при помощи кирки, то выпадет полноценный блок вместо камешков."
 	]
 	quest.67C75B0558413227.quest_desc: ["Drops from &lRaw Eclipse Alloy Ore&r"]
 	quest.67F56B001E8FA4CC.quest_desc: ["Obtained through &lStraining&r"]
@@ -877,7 +877,7 @@
 	quest.6A91A9CE04766B24.quest_desc: ["Drops from a &lMysterious Block&r"]
 	quest.6AB8D9F0706E5D32.quest_desc: ["Advanced"]
 	quest.6B1F26092C3A368A.quest_desc: ["To the next &lPlanet&r"]
-	quest.6B5308E5CDA4B581.quest_desc: ["&lContained&r has a &lPublic Server&r. Join from your multiplayer menu!"]
+	quest.6B5308E5CDA4B581.quest_desc: ["У &lContained&r есть свой &lпубличный сервер&r. К нему можно подключиться в меню, нажав \"Сетевая игра\" (Multiplayer)."]
 	quest.6B535D62F07D732A.quest_desc: ["From seeds"]
 	quest.6B76DF1344AD1B24.quest_desc: ["From &lSand&r and &lNaphtha&r"]
 	quest.6B91D975D33BCAE2.quest_desc: ["&lAsteroid Dust&r and &lResources&r"]
@@ -955,7 +955,7 @@
 	quest.735B764B66558B71.quest_desc: ["Found inside the &l&6Cindrath Deltas&r"]
 	quest.737618A73E4890FF.quest_desc: ["Even better protection required for &l&7Fractoria&r"]
 	quest.737618A73E4890FF.title: "Подготовка к Фрактории"
-	quest.7395DF0BA7283B3F.quest_desc: ["Useful for digging"]
+	quest.7395DF0BA7283B3F.quest_desc: ["Пригодится для копания."]
 	quest.73FE8EF1B1A4F2E7.quest_desc: [
 		"&lAssemble&r the &lEnderic Lens&r to grow budding resources!"
 		""
@@ -963,16 +963,16 @@
 	]
 	quest.741FCF1314040459.quest_desc: ["Can be used to get &lWater&r out of &lWater Drops&r"]
 	quest.742998DB5BF1DB20.quest_desc: [
-		"&lCreators&r"
-		"&lbenbenlaw&r - All Opolis All the Time"
-		"&lAmmonium&r - Creator of other modpacks such as &lForever Factor&r and &lMechanical Mastery&r"
+		"&lСоздатели:&r"
+		"&lbenbenlaw&r - главный автор всех Opolis-сборок;"
+		"&lAmmonium&r - создатель других сборок, например, &lForever Factory&r и &lMechanical Mastery&r."
 		""
 		""
-		"&lSpecial Thanks&r to all the &lPatreon&r and &lTesters&r of the pack as well as &lYuki&r who provided many of the custom textures needed for the pack!"
+		"&lОсобая благдарность&r всем подписчикам &lPatreon&r, &lтестировщикам&r сборки, а также &lYuki&r, который отрисовал необходимые сборке текстуры!"
 		""
-		"&lThank You ALL&r"
+		"&lСпасибо вам ВСЕМ!&r"
 	]
-	quest.744AAA39C04416C3.quest_desc: ["Using a &lHammer&r on a &lLight Gray Asteroid&r will drop &lLight Gray Asteroid Dust&r"]
+	quest.744AAA39C04416C3.quest_desc: ["Используйте &lмолот&r на &lсветло-сером астероиде&r, чтобы получить &lсветло-серую астероидную пыль&r."]
 	quest.744E23FF062C1D22.quest_desc: ["Allows the &lCloche&r to obtain &lLeaves&r"]
 	quest.74522F4407C45A7C.quest_desc: ["Made inside the &lEnergizing Orb&r"]
 	quest.74632F4E6FE637CC.quest_desc: ["Obtained through &lStraining&r"]
@@ -980,7 +980,8 @@
 	quest.749763425AE50803.quest_desc: ["Smelted &lPrimal Steel Dust&r"]
 	quest.749AC396626554C2.quest_desc: ["Crafted &lSmall Dust&r"]
 	quest.74D4A06E042651A2.quest_desc: ["Obtained through &lStraining&r"]
-	quest.751643E87AE95395.quest_desc: ["So comfy but also explody"]
+	quest.751643E87AE95395.quest_desc: ["Вполне уютненько."]
+	quest.751643E87AE95395.title: "Кровать"
 	quest.7533FB337511EE3F.quest_desc: ["&lAsteroid Dust&r and &lResources&r"]
 	quest.754102C77BBCFDCA.quest_desc: ["Made from Leaves"]
 	quest.758AD2B4B65A2F5C.quest_desc: ["Obtained inside the &lLarge Yellow Asteroid&r"]
@@ -1023,7 +1024,7 @@
 	quest.7BB4F35653E3427A.quest_desc: ["A &lLarge Asteroid&r found in &lSpace&r"]
 	quest.7BB4F35653E3427A.title: "Синий астероид"
 	quest.7BBDAACDE3F4B913.quest_desc: ["Late-game &lJDT&r material"]
-	quest.7BEDD1FBDD60F67D.quest_desc: ["Smelted &lDust&r"]
+	quest.7D1FBDD60F67D.quest_desc: ["Smelted &lDust&r"]
 	quest.7C2234623CE25C6D.quest_desc: ["Obtained from a &lMysterious Block&r"]
 	quest.7C87D1595B7529F5.quest_desc: ["Useful for enchanting"]
 	quest.7C9EAFA39DBFCBA0.quest_desc: ["Uses various different solids and liquids to produce power"]
@@ -1046,15 +1047,15 @@
 	quest.7F37D9581246002B.quest_desc: ["Required machine for crafting &ladvanced&r oritech materials"]
 	quest.7F644441625E5DAB.quest_desc: ["Light Reading"]
 	quest.7F838D7C9F904839.quest_desc: [
-		"&lContained &ralso contains some optional &lResource Packs&r founds in the &lPause Menu&r -> Options -> &lResource Packs&r"
+		"В &lContained&r есть и опциональные &lнаборы ресурсов&r, расположенные по пути &lESC&r -> \"Настройки...\" -> &l\"Наборы ресурсов...\"&r"
 		""
-		"&lBBL Colors Connected Textures&r, provides some connected texture for the colored blocks"
+		"Набор ресурсов &lBBL Colors Connected Textures&r добавит плавные переходы между текстурами некоторых цветных блоков."
 		""
-		"&lSlightly Improved Font&r, provides a clean font"
+		"Набор ресурсов &lSlightly Improved Font&r изменит шрифт на более чистый."
 		""
-		"&lAE2 Blackout&r, Reduces the brightness of AE2 blocks and GUI's"
+		"Набор ресурсов &lAE2 Blackout&r уменьшает яркость блоков из AE2 и их интерфейсов."
 		""
-		"&lPretty X Smart Pipez&r, Makes Pipez pipes look better"
+		"Набор ресурсов &lPretty X Smart Pipez&r улучшит внешний вид труб из Pipez."
 	]
 	quest.7FA4FAAA8A7509AA.quest_desc: ["&lSeeds&r can be found in the &lLarge Asteroid Room&r"]
 	quest.7FAEB1F541D28E3A.quest_desc: ["Part of the &lRefinery&r"]
@@ -1113,6 +1114,7 @@
 	task.524CAA1C83702AEB.title: "Уровни"
 	task.543E1DCF89952511.title: "Любая предметная труба"
 	task.546EAB8883D1DB46.title: "Поддержка"
+	task.54EF8921A2AED1B2.title: "Любая кровать"
 	task.585CC4000AE8BA91.title: "add the rest"
 	task.5BF799A75A774B69.title: "Любой суп из Goo"
 	task.5E8B2D6EB618F8CE.title: "Наборы ресурсов"
